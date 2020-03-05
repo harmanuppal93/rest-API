@@ -14,4 +14,4 @@ function some_function(){
 	
 }
 
-// post to URL : https://www.site_url.com/wp-json/wp_json/leadfix_insert_data
+// post to URL : https://www.site_url.com/wp-json/wp_json/some_function
